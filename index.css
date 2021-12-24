@@ -1,0 +1,12 @@
+.foto {
+    height: 20%;
+    width: 20%;
+    float: right;
+    margin-right: 10px;
+    background-image: url(avatar.png);
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}

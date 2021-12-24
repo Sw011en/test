@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="index.css">
+
 # Igor Kancher
 
 <div class="foto">
@@ -8,7 +10,7 @@
 
 ## Contact Information
 
-* Phone Number: +7 9021 779 748
+* Phone Number: +7 9021 779 748 
 * E-mail: igor.kancher@gmail.com
 * GitHub: [Sw011en](https://github.com/Sw011en "GitHub profile")
 * Discord: Sw011enIK#3683
